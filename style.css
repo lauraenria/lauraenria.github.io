@@ -1,0 +1,62 @@
+body {
+    background-color: #003366
+}
+
+h1 {
+    font-family: "Script", coursive;
+    color: white;
+    font-size: 200px;
+}
+
+.firstcharacter {
+    font-family: "Rock Salt", Time new Roman;
+    color: #ffcc66;
+    font-size: 30px
+}
+
+.img-thumbnail {
+    background-color: transparent;
+    border: 0px;
+    margin-left: 550px;
+}
+
+#imgEND {
+    background-color: transparent;
+    border: 0px;
+    margin-left: 50px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
+    padding-bottom: 25px;
+}
+
+h2 {
+    font-family: "Script", Time new Roman;
+    color: white;
+    font-size: 50px;
+    padding: 20px 20px 20px 20px;
+}
+
+p {
+    font-family: "Rock Salt", Time new Roman;
+    color: white;
+    padding: 0 20px 20px 20px;
+    margin: 20px;
+}
+
+li {
+    font-family: "Rock Salt", Time new Roman;
+    color: white;
+}
+
+a {
+    font-family: "Rock Salt", Time new Roman;
+    color: #ffcc66;
+}
+
+.target {
+    color: White;
+}
