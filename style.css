@@ -2,6 +2,10 @@ body {
     background-color: #003366
 }
 
+.text-center{
+    text-align: center;
+}
+
 h1 {
     font-family: "Script", coursive;
     color: white;
@@ -38,6 +42,8 @@ h2 {
     color: white;
     font-size: 50px;
     padding: 20px 20px 20px 20px;
+    margin: 5px;
+   
 }
 
 p {
